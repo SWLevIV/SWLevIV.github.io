@@ -56,7 +56,7 @@ h2 {
   border: 3px solid #FFD700;
 }
 body {
-    background-image: url('file:///C:/Users/Admin/OneDrive/Pictures/artwork-nature-landscape-fantasy-art-wallpaper-89a0181d11da8d8bf687881f1051d6ed.jpg');
+    background-image: url('./artwork-nature-landscape-fantasy-art-wallpaper-89a0181d11da8d8bf687881f1051d6ed.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }button {
